@@ -23,7 +23,7 @@
 <img align="left" alt="PyCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" style="padding-right:10px;" />
 
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="SQL" width="26px" src=">https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" style="padding-right:10px;" />
+
 
 
 <br />
