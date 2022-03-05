@@ -4,9 +4,7 @@
 
 
 
-- 🔭 I’m currently working on MIPT computer vision project 
 - 🌱 I’m currently learning GO
-- 💬 Ask me about chief keef
 - 📫 How to reach me: vk.com/rideauu
 
 ### Languages and Tools:
