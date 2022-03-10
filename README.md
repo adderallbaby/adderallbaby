@@ -21,11 +21,11 @@
 <img align="left" alt="PyCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" style="padding-right:10px;" />
 
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" style="padding-right:10px;" />
 
+<img align="left" alt="SQL" width="26px" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" style="padding-right:10px;" />
 
-<img align="left" alt="GitHub" width="26px" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" style="padding-right:10px;" />
-
-<img align="left" alt="GitHub" width="26px" src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black-2.png" style="padding-right:10px;" />
+<img align="left" alt="OpenCv" width="26px" src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black-2.png" style="padding-right:10px;" />
 
 <br />
 <br />
