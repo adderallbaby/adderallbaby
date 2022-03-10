@@ -25,7 +25,10 @@
 
 <img align="left" alt="GitHub" width="26px" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" style="padding-right:10px;" />
 
+<img align="left" alt="GitHub" width="26px" src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black-2.png" style="padding-right:10px;" />
+
 <br />
 <br />
 
 ---
+https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black-2.png
