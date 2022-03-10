@@ -31,4 +31,3 @@
 <br />
 
 ---
-https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black-2.png
