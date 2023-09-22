@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning GO
+- 🌱 I’m currently learning Java
 - 📫 How to reach me: vk.com/rideauu
 
 ### Languages and Tools:
